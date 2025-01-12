@@ -1,0 +1,63 @@
+﻿@{
+	ViewData["Title"] = "Login";
+	Layout = null;
+}
+<head>
+
+	<link href="~/assets/css/login.css" rel="stylesheet" />
+
+</head>
+<body>
+	<div class="container" id="container">
+		<div class="form-container sign-up-container">
+			<form action="#">
+				<h1>Bağışçı Kaydı </h1>
+				
+				<input type="text" placeholder="Ad" />
+				<input type="email" placeholder="Soyad" />
+				<input type="email" placeholder="E-Mail" />
+				<input type="text" placeholder="Doğum Tarihi" />
+				<input type="password" placeholder="Şifre" />
+				<button>Kayıt Ol</button>
+			</form>
+		</div>
+		<div class="form-container sign-in-container">
+			<form action="#">
+				<h1>Destek Talepçi Kaydı</h1>
+			
+				<input type="text" placeholder="Ad" />
+				<input type="email" placeholder="Soyad" />
+				<input type="email" placeholder="E-Mail" />
+				<input type="text" placeholder="Doğum Tarihi" />
+				<input type="password" placeholder="Şifre" />
+				<button>Kayıt Ol</button>
+			</form>
+		</div>
+		<div class="overlay-container">
+			<div class="overlay">
+				<div class="overlay-panel overlay-left">
+					<h1>Hoşgeldiniz!</h1>
+					<p>Destek Talepçi Kaydı Oluşturmak İçin Tıkla!</p>
+					<button class="ghost" id="signIn">Destek Talepçi Kaydı</button>
+				</div>
+				<div class="overlay-panel overlay-right">
+				
+					<h1>Hoşgeldiniz!</h1>
+					<p>Bağışçı Kaydı Oluşturmak İçin Tıkla!</p>
+					<button class="ghost" id="signUp">Bağışçı Kaydı</button>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+
+<footer>
+	<p>
+		Created with <i class="fa fa-heart"></i> by
+		<a target="_blank" href="https://florin-pop.com">Florin Pop</a>
+		- Read how I created this and how you can join the challenge
+		<a target="_blank" href="https://www.florin-pop.com/blog/2019/03/double-slider-sign-in-up-form/">here</a>.
+		<script src="~/assets/js/login.js"></script>
+	</p>
+</footer>
+

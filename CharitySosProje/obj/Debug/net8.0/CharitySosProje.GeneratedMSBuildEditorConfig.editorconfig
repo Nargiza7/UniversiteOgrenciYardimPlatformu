@@ -1,0 +1,127 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CharitySosProje
+build_property.RootNamespace = CharitySosProje
+build_property.ProjectDir = C:\Users\nargi\Desktop\KampusHareketi\CharitySosProje\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\nargi\Desktop\KampusHareketi\CharitySosProje
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/nargi/Desktop/KampusHareketi/CharitySosProje/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nargi/Desktop/KampusHareketi/CharitySosProje/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nargi/Desktop/KampusHareketi/CharitySosProje/Views/Enterprice/AboutUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW50ZXJwcmljZVxBYm91dFVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nargi/Desktop/KampusHareketi/CharitySosProje/Views/Enterprice/HumanResources.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW50ZXJwcmljZVxIdW1hblJlc291cmNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nargi/Desktop/KampusHareketi/CharitySosProje/Views/Enterprice/OurValues.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW50ZXJwcmljZVxPdXJWYWx1ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nargi/Desktop/KampusHareketi/CharitySosProje/Views/Home/Causes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXVzZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nargi/Desktop/KampusHareketi/CharitySosProje/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nargi/Desktop/KampusHareketi/CharitySosProje/Views/Home/Enterprisee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFbnRlcnByaXNlZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nargi/Desktop/KampusHareketi/CharitySosProje/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nargi/Desktop/KampusHareketi/CharitySosProje/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nargi/Desktop/KampusHareketi/CharitySosProje/Views/Pages/Donate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcRG9uYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nargi/Desktop/KampusHareketi/CharitySosProje/Views/Pages/OurTeam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcT3VyVGVhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nargi/Desktop/KampusHareketi/CharitySosProje/Views/Pages/Page404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcUGFnZTQwNC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nargi/Desktop/KampusHareketi/CharitySosProje/Views/Pages/Service.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcU2VydmljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nargi/Desktop/KampusHareketi/CharitySosProje/Views/Pages/Testimonial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcVGVzdGltb25pYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nargi/Desktop/KampusHareketi/CharitySosProje/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nargi/Desktop/KampusHareketi/CharitySosProje/Views/Shared/_HeadPageArea.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkUGFnZUFyZWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nargi/Desktop/KampusHareketi/CharitySosProje/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nargi/Desktop/KampusHareketi/CharitySosProje/Views/Volunteer/DoAsVolunteer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50ZWVyXERvQXNWb2x1bnRlZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nargi/Desktop/KampusHareketi/CharitySosProje/Views/Volunteer/FormVolunteer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50ZWVyXEZvcm1Wb2x1bnRlZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nargi/Desktop/KampusHareketi/CharitySosProje/Views/Volunteer/WhoIsVolunteer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50ZWVyXFdob0lzVm9sdW50ZWVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nargi/Desktop/KampusHareketi/CharitySosProje/Views/Volunteer/WorkAreasVolunteer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50ZWVyXFdvcmtBcmVhc1ZvbHVudGVlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nargi/Desktop/KampusHareketi/CharitySosProje/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nargi/Desktop/KampusHareketi/CharitySosProje/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nargi/Desktop/KampusHareketi/CharitySosProje/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-718z8xq61e

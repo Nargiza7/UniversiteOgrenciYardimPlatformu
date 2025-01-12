@@ -1,0 +1,32 @@
+﻿@* @using CharitySosProje.Models
+@model HeadPageArea
+
+<!-- Page Header Start -->
+<div class="container-fluid page-header mb-5 wow fadeIn" data-wow-delay="0.1s">
+    <div class="container text-center">
+        <h1 class="display-4 text-white animated slideInDown mb-4">@Model.Title</h1>
+        <nav aria-label="breadcrumb animated slideInDown">
+            <ol class="breadcrumb justify-content-center mb-0">
+                <li><a asp-area="" asp-controller="Home" asp-action="Index">Ana Sayfa</a></li>
+               @*  <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li> *@
+               @*  <li class="breadcrumb-item"><a class="text-white" href="#">Pages</a></li> *@
+               @*  @{
+                    if (!string.IsNullOrEmpty(Model.Chapter))
+                    {
+                        <li><a href="#">@Model.Chapter</a></li>
+                    }
+                } 
+                <li>@Model.Product</li>
+            </ol>
+        </nav>
+    </div>
+</div>
+<!-- Page Header End -->
+
+
+@{
+    ViewData["Title"] = "_HeadPageArea";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+               *@
